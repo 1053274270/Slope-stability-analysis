@@ -1,0 +1,15 @@
+style=1
+information summary of job:  suanli1_job1
+version:  Marc 2020
+date:     Sun Oct 27 13:44:25 2024
+
+    case   inc  cycl  sepa cut   cycl   separ   cut  rmesh time step   total time        displ-mag              
+      #     #     #     #   #      #      #      #     #      of           of         min         max    
+               |--of the inc--|------of the analysis------| the inc      the job
+
+      0      0    1    0    0       1       0     0     0  0.0000E+00  0.0000E+00  1.2462E-15  4.3370E-05
+      1      1    1    0    0       2       0     0     0  1.0000E+00  1.0000E+00  1.2462E-15  4.3370E-05
+
+ Job ends with exit number :    3004
+            total wall time:          1.23
+            total cpu  time:          6.50

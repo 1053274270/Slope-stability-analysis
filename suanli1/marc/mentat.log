@@ -1,0 +1,13 @@
+Marc Mentat (C)Copyright 1994-2020, MSC Software Corporation, all rights reserved
+Command > *post_open c:\users\wr1\onedrive\lunwen\suanli1\marc\suanli1_job1.t16
+Number of increments detected : 2
+Command > *fill_view
+Command > *dynamic_model_on
+Command > *dynamic_model_off
+Command > *dynamic_model_on
+Command > *dynamic_model_off
+Command > *dynamic_model_on
+Command > *dynamic_model_off
+Command > *dynamic_model_on
+Command > *dynamic_model_off
+Command > *quit yes

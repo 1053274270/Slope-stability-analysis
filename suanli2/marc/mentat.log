@@ -1,0 +1,38 @@
+Marc Mentat (C)Copyright 1994-2020, MSC Software Corporation, all rights reserved
+Command > *post_open c:\users\wr1\onedrive\lunwen\suanli2\marc\suanli2_job1.t16
+Number of increments detected : 2
+Command > *fill_view
+Command > *post_contour_centroid
+Command > *post_contour_bands
+Command > *post_value Comp 11 of Stress
+Enter post variable : @popup(plot_popmenu,0)
+Enter post variable : *edges_outline *find_solid_outline
+Enter post variable : *redraw
+Enter post variable : *levels 12
+Enter the number of contour levels : *dynamic_model_on
+Enter the number of contour levels : *dynamic_model_off
+Enter the number of contour levels : *dynamic_model_on
+Enter the number of contour levels : *dynamic_model_off
+Enter the number of contour levels : *dynamic_model_on
+Enter the number of contour levels : *dynamic_model_off
+Enter the number of contour levels : *dynamic_model_on
+Enter the number of contour levels : *dynamic_model_off
+Enter the number of contour levels : *dynamic_model_on
+Enter the number of contour levels : *dynamic_model_off
+Enter the number of contour levels : @popup(plot_popmenu,0)
+Enter the number of contour levels : *triad_off
+Enter the number of contour levels : *post_value Comp 22 of Stress
+Enter post variable : @popup(plot_popmenu,0)
+Enter post variable : *set_graphics_font Times New Roman,14,-1,5,75,0,0,0,0,0,Bold
+Enter graphics font name : *dynamic_model_on
+Enter graphics font name : *dynamic_model_off
+Enter graphics font name : *dynamic_model_on
+Enter graphics font name : *dynamic_model_off
+Enter graphics font name : *dynamic_model_on
+Enter graphics font name : *dynamic_model_off
+Enter graphics font name : *dynamic_model_on
+Enter graphics font name : *dynamic_model_off
+Enter graphics font name : *post_value Comp 11 of Stress
+Enter post variable : *dynamic_model_on
+Enter post variable : *post_value Equivalent Von Mises Stress
+Enter post variable : *quit yes

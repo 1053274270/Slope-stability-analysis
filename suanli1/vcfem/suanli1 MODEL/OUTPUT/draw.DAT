@@ -1,0 +1,2 @@
+ TITLE = "3D Finite-Element Data"
+ VARIABLES = "X""Y""Z""stress-x""stress-y""stress-z""stress-xy""stress-yz""stress-zx"

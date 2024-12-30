@@ -1,0 +1,5 @@
+                 x                    y                    z             STRESS11             STRESS22             STRESS33             STRESS12             STRESS23             STRESS31         Mises STRESS
+                 x                    y                    z             STRESS11             STRESS22             STRESS33             STRESS12             STRESS23             STRESS31         Mises STRESS
+                 x                    y                    z             STRESS11             STRESS22             STRESS33             STRESS12             STRESS23             STRESS31         Mises STRESS
+                 x                    y                    z             STRESS11             STRESS22             STRESS33             STRESS12             STRESS23             STRESS31         Mises STRESS
+                 x                    y                    z             STRESS11             STRESS22             STRESS33             STRESS12             STRESS23             STRESS31         Mises STRESS

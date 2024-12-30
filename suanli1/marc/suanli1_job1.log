@@ -1,0 +1,199 @@
+ 
+Program name         : marc  
+Job ID               : C:\Users\wr1\Desktop\lunwen\suanli1\marc\suanli1_job1   
+Version type         : i8  
+User subroutine name :   
+User objects/libs    :   
+Restart file job ID  :    
+Substructure file ID :    
+Post file job ID     :    
+Defaults file ID     :    
+View factor file ID  :    
+Save generated module: no 
+MPI library          : intelmpi 
+Contact decoupling   : 0 
+DDM processes        :  
+Element loop threads :  
+Solver processes     :  
+Solver threads       : 20 
+GPGPU option         :  
+Host file            :    
+Distributed i/o      :    
+Run directory        : C:\Users\wr1\Desktop\lunwen\suanli1\marc 
+Scratch directory    : C:\Users\wr1\Desktop\lunwen\suanli1\marc 
+Default bin directory: G:\MSC.Software\Marc\2020.0.0\marc2020\bin\win64i8 
+Material database    : G:\MSC.Software\Marc\2020.0.0\marc2020\AF_flowmat\  
+  
+ 
+2024/10/27 ÷‹»’ 
+13:44
+ 
+ Marc suanli1_job1 begins execution
+
+     (c) COPYRIGHT 2020 MSC Software Corporation, all rights reserved
+
+
+ Requested number of element threads                     =    1
+ Requested number of solver threads                      =   20
+
+
+ VERSION: Marc 2020, build 743940 (2020/07/14)
+
+
+
+     Date: Sun Oct 27 13:44:25 2024
+
+                              Marc execution begins
+ Date:          Sun Oct 27 13:44:25 2024
+ MSC Id:        581cf8a5018b (ethernet) (Intel)
+ Hostname:      DESKTOP-EUS8DE9 (user wr1, display DESKTOP-EUS8DE9)
+ License files: 27500@DESKTOP-EUS8DE9
+ CEID:          97A6A811-47A6BG55
+ User:          wr1
+ Display:       DESKTOP-EUS8DE9
+ LAPI Version:  LAPI 10.6.6 (CL 725511) (FLEXlm 11.16.3.0)
+Acquired 1 license for Marc from license server on host DESKTOP-EUS8DE9
+
+
+             general memory initially set to =        25 MByte
+
+             maximum available memory set to =     32677 MByte
+
+             general memory increasing from      25 MByte to     106 MByte
+
+   MSC Customer Entitlement ID
+        97A6A811-47A6BG55
+
+             wall time =           0.00
+
+             wall time =           0.00
+
+
+             Number of warning messages is 0
+
+             start of assembly     cycle number is     0
+             wall time =           0.00
+
+
+
+             start of matrix solution
+             wall time =           0.00
+
+
+
+             singularity ratio    3.0162E-02
+
+
+             end of matrix solution
+             wall time =           0.00
+
+
+             Number of warning messages is 458
+
+             total  memory =          163  MByte
+
+             e n d   o f   i n c r e m e n t       0
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       1
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    3.0162E-02
+
+
+             end of matrix solution
+             wall time =           1.00
+
+
+             maximum residual force  at node       373 degree of freedom  2 is equal to    9.575E-11
+             maximum reaction force  at node       231 degree of freedom  2 is equal to    3.058E+06
+             residual convergence ratio    3.132E-17
+
+             Number of warning messages is 916
+
+             total  memory =          173  MByte
+
+             e n d   o f   i n c r e m e n t       1
+             wall time =           1.00
+
+Returned 1 license for Marc
+
+
+             memory usage:                       MByte       words  % of total
+
+              within general memory:           
+               element stiffness matrices:           1      306348         0.7
+               solver: first part                    2      631104         1.4
+               overallocation initial allocation   103    27049014        59.6
+               other:                                0       17398         0.0
+              allocated separately:
+               incremental backup:                  10     2619096         5.8
+               solver 8                              9     2467650         5.4
+               nodal vectors:                        3      806910         1.8
+               defined sets:                         0       14218         0.0
+               tyings:                               0       32674         0.1
+               transformations:                      0       27824         0.1
+               kinematic boundary conditions:        0       11140         0.0
+               points, curves and surfaces:          0         434         0.0
+               mem_none:                             3      774374         1.7
+               element storage:                     14     3571564         7.9
+               material properties:                  0        4856         0.0
+               executable and common blocks:        27     7000000        15.4
+               miscellaneous                         0       29282         0.1
+               ---------------------------------------------------------------
+               total:                              173    45363886
+
+               general memory allocated:           107    28003864
+               general memory used:                  4      954850
+
+               peak memory usage:                  174    45521662
+
+
+             timing information:                             wall time      cpu time
+
+               total time for input:                              0.33          0.34
+               total time for stiffness matrix assembly:          0.08          0.09
+               total time for mass matrix assembly:               0.00          0.00
+               total time for stress recovery:                    0.09          1.31
+               total time for matrix solution:                    0.18          1.38
+               total time for output:                             0.30          3.22
+               total time for miscellaneous:                      0.24          0.16
+               ---------------------------------------------------------------------
+               total time:                                        1.22          6.50
+
+
+             **************************************************************************
+
+
+             
+             This is a successful completion to a Marc simulation,
+             indicating that no additional incremental data was
+             found and that the analysis is complete.
+             
+
+
+
+
+             **************************************************************************
+
+
+
+
+
+                                        Marc 2020
+
+                                        Number of warning messages is 916
+
+                                        Exit number 3004

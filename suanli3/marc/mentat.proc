@@ -1,0 +1,13 @@
+| Created by Marc Mentat 2020 (64bit)
+*prog_option compatibility:prog_version:ment2020
+*prog_analysis_class structural
+*prog_use_current_job on
+*set_default_length_unit millimeter
+*set_model_length_unit millimeter
+|
+*open_model c:\users\wr1\onedrive\lunwen\????????????????????????\suanli3\marc\1poumian.mud
+*mouse_wheel_zoom(1,0.909091,-1.143147,-0.259259,-5.600000)
+*mouse_wheel_zoom(1,1.100000,-1.257462,-0.285185,-5.600000)
+*mouse_wheel_zoom(1,0.909091,-1.143147,-0.259259,-5.600000)
+*mouse_wheel_zoom(1,1.100000,-1.152937,-0.313704,-5.600000)
+*quit yes
